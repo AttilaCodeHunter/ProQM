@@ -1,0 +1,43 @@
+.custom-table-container {
+    top: 472px;
+    left: 372px;
+    width: 1458px;
+    height: 337px;
+    background: transparent;
+}
+
+td {border: 1px solid #dddddd;
+    text-align: center;
+    font: normal normal normal 14px/16px Arial ;
+    height: 30px;
+    color: #333333;
+}
+
+th {border: 1px solid #dddddd;
+    text-align: center 10px;
+    font: normal normal normal 16px/18px Arial;
+    height: 30px;background-color: #0E659B; color: #FFFFFF;}
+
+.col1{left: 389px;width:32px; }
+.col2{left: 421px;width:158px;}
+.col3{left: 580px;width:182px;}
+.col4{left: 762px;width:134px;}
+.col5{left: 896px;width:202px;}
+.col6{left: 1097px;width:130px;}
+.col7{left: 1228px;width:142px;}
+.col8{left: 1369px;width:142px;}
+.col9{left: 1511px;width:127px;}
+.col10{left: 1638px;width:137px;}
+.col11{left: 1775px;width:72px;}
+.abc {background-color: #91919126;}
+.xyz {background-color: #F7F7F7;}
+
+.table_button{
+    background: #919191;
+    padding-bottom: 10px;
+    height: 22px; 
+    width: 22px;
+    border-radius: 50%;
+    border: none;
+    left: 1799px;
+}
